@@ -1,7 +1,23 @@
 {
+  "basic": {
+    "report": "Report",
+    "bot": "Bot"
+  },
 
-  "Report": "Report",
-  "test": "Test",
+  "premium": {
+    "premium": "Premium",
+    "sponsored_by": "Sponsored by"
+  },
 
-  "help": "Help"
+  "help": {
+    "help": "Help",
+    "help_page": "Help Page",
+    "our_docs": "Our Docs",
+    "support_dis": "Support Discord",
+    "text1": "To get started or get help with **Report**, please:",
+    "text2": "Visit the DOCS",
+    "text3": "Join our Support Discord",
+    "or": "or",
+    "slash": "Every command is registered as a Slash command"
+  }
 }
