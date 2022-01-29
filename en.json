@@ -19,5 +19,29 @@
     "text3": "Join our Support Discord",
     "or": "or",
     "slash": "Every command is registered as a Slash command"
+  },
+
+  "aboutbot": {
+    "about_the_bot": "About the Bot",
+    "name": "Name",
+    "servers": "Servers",
+    "prefix": "Prefix",
+    "slash_cmds": "Slash commands",
+    "ping": "Ping",
+    "library": "Library",
+    "uptime": "Uptime",
+    "created_at": "Created at:",
+    "days_ago": "Days ago",
+    "inv_link": "Bot Invite Link",
+    "vote_page": "Vote Page"
+  },
+
+  "add": {
+    "dashboard": "Dashboard",
+    "added": "This server was added to the Dashboard [BETA]",
+    "add_message": "For more info about Dashboard visit our",
+    "already_reg": "Your server is already registered!",
+    "no_perms": "You do not have the following permissions:"
   }
+  
 }
