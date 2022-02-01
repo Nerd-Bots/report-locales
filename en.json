@@ -42,6 +42,23 @@
     "add_message": "For more info about Dashboard visit our",
     "already_reg": "Your server is already registered!",
     "no_perms": "You do not have the following permissions:"
+  },
+
+  "report": {
+    "new_report": "New Report !",
+    "type": "Type",
+    "user_type": "User",
+    "bug_type": "Bug",
+    "other_type": "Other",
+    "user_name": "Username",
+    "user_id": "User ID",
+    "report_message": "Report Message",
+    "new": "New"
+  },
+
+  "report_type": {
+    "user": "user",
+    "player": "player"
   }
-  
+
 }
